@@ -1,2 +1,2 @@
 my name is wangjian
-i am 26 age
+i am 22 age
