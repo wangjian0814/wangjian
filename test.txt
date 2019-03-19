@@ -1,2 +1,6 @@
 dasfadf
+<<<<<<< HEAD
 my name IS wangjian
+=======
+my NAME is WANGJIAN
+>>>>>>> wangfang
